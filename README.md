@@ -110,7 +110,7 @@ Feel free to reach out if you'd like to collaborate or discuss a project:
 
 - GitHub: <https://github.com/Ashleylindi>
 
-- LinkedIn: <https://www.linkedin.com/in/ashley-xaba-aa027921a/>
+- LinkedIn: <https://www.linkedin.com/in/ashleylindi/>
 
 2.**Tebogo Phiri**
 
