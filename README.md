@@ -104,14 +104,18 @@ The project uses the following libraries:
 
 Feel free to reach out if you'd like to collaborate or discuss a project:
 
-Email: <lindix332@gmail.com>
+1.**Ashley Xaba**
 
-GitHub: <https://github.com/Ashleylindi>
+- Email: <lindix332@gmail.com>
 
-LinkedIn: <https://www.linkedin.com/in/ashley-xaba-aa027921a/>
+- GitHub: <https://github.com/Ashleylindi>
 
-Email: <tphirifiri@gmail.com>
+- LinkedIn: <https://www.linkedin.com/in/ashley-xaba-aa027921a/>
 
-GitHub: <https://github.com/TebogoP>
+2.**Tebogo Phiri**
 
-LinkedIn: <https://www.linkedin.com/in/tebogo-phiri-b5a96796/>
+- Email: <tphirifiri@gmail.com>
+
+- GitHub: <https://github.com/TebogoP>
+
+- LinkedIn: <https://www.linkedin.com/in/tebogo-phiri-b5a96796/>
