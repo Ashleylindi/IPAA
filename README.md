@@ -114,7 +114,7 @@ Feel free to reach out if you'd like to collaborate or discuss a project:
 
 2.**Tebogo Phiri**
 
-- Email: <tphirifiri@gmail.com>
+- Email: <tphiri.firi@gmail.com>
 
 - GitHub: <https://github.com/TebogoP>
 
